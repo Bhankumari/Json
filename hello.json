@@ -1,53 +1,245 @@
 [
- {
-"image": "https://i.pinimg.com/564x/37/94/2d/37942db823978ed21dbbc7ea876cbb53.jpg"
-},
- {
-"image": "https://i.pinimg.com/564x/2b/2c/d6/2b2cd6f9cace007852bcd6bcb01f2a00.jpg"
-},
- {
-"image": "https://i.pinimg.com/564x/bb/fd/83/bbfd834868b5987449b281344ef28e09.jpg"
-},
- {
-"image": "https://i.pinimg.com/564x/03/15/d5/0315d5b32f8605619bad1846c741ae47.jpg"
-},
-{
-"image": "https://i.pinimg.com/564x/b6/31/f6/b631f6721dc87e56cfe43b059d48f28b.jpg"
-},
- {
-"image": "https://i.pinimg.com/564x/a2/39/e0/a239e0d8ac1a62ddc3b2361980caa377.jpg"
-},
-{
-"image": "https://i.pinimg.com/564x/e4/ec/3e/e4ec3e22d3428b686c6e64816c0ed856.jpg"
-},
- {
-"image": "https://i.pinimg.com/564x/a8/a4/4f/a8a44fdc923092f7538f4ed4c9e12768.jpg"
-},
- {
-"image": "https://i.pinimg.com/736x/b2/ff/2a/b2ff2aed95d746b86e6bb5401fb78a38.jpg"
-},
- {
-"image": "https://i.pinimg.com/564x/ed/d0/51/edd051a4279c7742d9427d1dba877335.jpg"
-},
- {
-"image": "https://i.pinimg.com/736x/90/3a/ea/903aea1311a519c300b65ad798e388c5.jpg"
-},
-{
-"image": "https://i.pinimg.com/564x/0a/b4/4d/0ab44dcca2daf59fee0e41f75f1311f7.jpg"
-},
- {
-"image": "https://i.pinimg.com/564x/86/c1/2e/86c12e9c1754993eaed3ffa6291ef70f.jpg"
-},
-{
-"image": "https://i.pinimg.com/564x/df/9d/41/df9d419ad380ebc60693fc06c58936b0.jpg"
-}, 
- {
-"image": "https://i.pinimg.com/564x/9a/24/fd/9a24fd1d492921fe07c759b7446e3fc1.jpg"
-},
-{
-"image": "https://i.pinimg.com/564x/26/81/4a/26814a08d6d5d32f2302f5f061d2d487.jpg"
-},
- {
-"image": "https://i.pinimg.com/564x/7f/e7/cb/7fe7cb4ed3b692b581957a95f0f9774a.jpg"
-}
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083249-scaled.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/salaar-hd-wallpaper-scaled.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083249-2048x2048.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083315.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083330.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/salaar-hd-wallpaper-1419x2048.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083343.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083249-1536x1536.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083441.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083241.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083325.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144646.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083234.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144646-1229x1536.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/HDgallery-SALAAR-4.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144615.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083241-1105x1536.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083315-1097x1536.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/HDgallery-SALAAR-4-1066x1536.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083330-1065x1536.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/salaar-hd-wallpaper-1064x1536.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144615-1064x1536.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083343-1024x1536.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083441-1536x832.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083325-1536x782.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083249-1024x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083234-1024x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083354.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083343-768x1152.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144615-768x1109.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/salaar-hd-wallpaper-768x1109.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083330-768x1108.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/HDgallery-SALAAR-4-768x1107.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144646-819x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083315-768x1075.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083241-768x1067.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083241-737x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083315-732x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144646-768x960.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/HDgallery-SALAAR-4-710x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083330-710x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/salaar-hd-wallpaper-709x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144615-709x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083343-683x1024.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083249-768x768.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083234-768x768.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083354-1024x575.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083441-1024x555.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083325-1024x522.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/salaar-villian-walppaper.jpeg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/Salaar.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/Salaar-hd-wallpapers.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083354-768x431.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083441-768x416.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083212.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083203.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083325-768x391.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/Salaar.jpeg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083249-300x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083234-300x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083212-300x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083203-300x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144646-240x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/Salaar-hd-wallpapers-240x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083241-216x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083315-214x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/salaar-hd-wallpaper-208x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230706_144615-208x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/HDgallery-SALAAR-4-208x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/Salaar-208x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083330-208x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/salaar-villian-walppaper-206x300.jpeg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/Salaar-300x200.jpeg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083343-200x300.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083354-300x169.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083441-300x162.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083325-300x153.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083234-150x150.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083203-150x150.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083212-150x150.jpg"
+    },
+    {
+        "image": "https://wallpaperbuzz.net/wp-content/uploads/2023/03/20230321_083249-150x150.jpg"
+    }
 ]
